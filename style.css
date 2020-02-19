@@ -2,10 +2,8 @@ body {
     background-color: #00b9ff;
 }
 
-#white {
-    padding: 0 auto;
+white {
+    height: 500px;
+    width: 500px;
 }
 
-.pink {
-    padding-bottom:100px;
-}
