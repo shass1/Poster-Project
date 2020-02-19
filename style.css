@@ -6,6 +6,6 @@ body {
     padding: 0 auto;
 }
 
-#pink {
-    padding-top:-100px;
+.pink {
+    padding-bottom:100px;
 }
