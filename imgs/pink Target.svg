@@ -3,7 +3,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:18;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#C42890;stroke-width:18;stroke-miterlimit:10;}
+	.st1{fill:#C42890;stroke:#C42890;stroke-width:18;stroke-miterlimit:10;}
 </style>
 <ellipse class="st0" cx="306.09" cy="326.71" rx="292.96" ry="295.21"/>
 <ellipse class="st0" cx="306.09" cy="326.71" rx="255.01" ry="256.97"/>
@@ -12,5 +13,5 @@
 <ellipse class="st0" cx="306.09" cy="326.71" rx="139.94" ry="141.01"/>
 <ellipse class="st0" cx="306.09" cy="326.71" rx="101.45" ry="102.22"/>
 <ellipse class="st0" cx="306.09" cy="326.71" rx="63" ry="63.48"/>
-<ellipse class="st0" cx="306.09" cy="326.71" rx="25.55" ry="25.74"/>
+<ellipse class="st1" cx="306.09" cy="326.71" rx="25.55" ry="25.74"/>
 </svg>
