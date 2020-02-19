@@ -10,6 +10,6 @@ body {
 .pink{
     height: 1500px;
     width: 1500px;
-    padding-bottom: 1500px;
+    margin-bottom: -1800px;
 }
 
