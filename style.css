@@ -3,12 +3,14 @@ body {
 }
 
 .white {
+    position: relative;
     height: 1500px;
     width: 1500px;
     margin-top:400px;
 }
 
 .pink{
+    position: relative;
     height: 1500px;
     width: 1500px;
     margin-top: -1900px;
