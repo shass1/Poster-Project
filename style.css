@@ -14,3 +14,8 @@ body {
     margin-top: -1900px;
 }
 
+h1{
+    size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
