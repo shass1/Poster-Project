@@ -15,7 +15,8 @@ body {
 }
 
 h1{
-    size: 70px;
+    size: 120px;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
+    padding-left: 300px;
 }
