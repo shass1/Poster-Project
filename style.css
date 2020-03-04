@@ -22,3 +22,11 @@ h1{
     padding-left: 50px;
     padding-top: 75px;
 }
+
+h2{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    padding-left: 50px;
+    padding-top: 90px;
+}
